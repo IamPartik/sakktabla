@@ -1,0 +1,17 @@
+td {
+    width: 10%;
+    height: 10%;
+    border: solid black 2px;
+}
+
+.vilagos {
+    background-color: white;
+}
+.sotet {
+    background-color: black;
+}
+table {
+    height: 800px;
+    width: 800px;
+    border-collapse: collapse;
+}
