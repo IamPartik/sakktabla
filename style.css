@@ -1,20 +1,14 @@
-
 td {
     width: 10%;
     height: 10%;
     border: solid black 2px;
-    text-align: center;
-    font-size: xx-large;
-    
 }
 
 .vilagos {
-    background-color: blue;
-    
+    background-color: white;
 }
 .sotet {
-    background-color: red;
-    
+    background-color: black;
 }
 table {
     height: 800px;
